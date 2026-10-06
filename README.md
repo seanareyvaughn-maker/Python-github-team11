@@ -1,2 +1,3 @@
 # Python-github-team11
-Team greating project
+Team greeting project
+This file has all team members greeting
