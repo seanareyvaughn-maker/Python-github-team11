@@ -1,5 +1,5 @@
 print("Hi")
-names = [Loi, Sean, Thomas, Jovan]
+names = ["Loi", "Sean", "Thomas", "Jovan"]
 
 for name in names:
   print(f"Hi {name}")
